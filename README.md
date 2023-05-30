@@ -1,5 +1,5 @@
 # 2-person-TicTacToe
-A simple TicTacToe game implemented in NetBeans IDE using Java to be played by 2 persons. The game is created using jButtons from the Swing Library. 9 buttons are placed as boxes and the players select the button to mark X or O depending on the player. The first player will have X while the second player has O. Same rules are followed as classic tic tac toe.
+A simple TicTacToe game implemented in NetBeans IDE using Java to be played by 2 persons. The game is created using jButtons from the Swing Library. 9 buttons are placed as boxes and the players select the button to mark X or O depending on the player. The first player will have X while the second player has O. Same rules are followed as classic tic tac toe. A Dialog box pops up when a player wins the game.
 
 # Game Screen
 ![TicTacToe](https://github.com/EdenThomas/2-person-TicTacToe/assets/126813639/d62a85b6-b6a1-46a9-b6ea-4771f4d8d55c)
